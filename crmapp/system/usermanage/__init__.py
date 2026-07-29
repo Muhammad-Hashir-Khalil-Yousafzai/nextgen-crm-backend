@@ -1,0 +1,1 @@
+default_app_config = 'crmapp.system.usermanage.apps.UsermanageConfig'
